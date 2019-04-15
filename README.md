@@ -4,7 +4,7 @@
 <img src="https://github.com/Alro10/PyTorch1.0Tutorials/blob/master/PyTorch.png" alt="alt text" width="60%" height="60%">
 </p>
 
-PyTorch 1.0 version's Tutorials Overview, ConvNet, RNNs, GANs tutorials, etc.[Official PyTorch site](https://pytorch.org/)
+PyTorch 1.0 version's Tutorials Overview, ConvNet, RNNs, GANs, VAEs tutorials, etc.[Official PyTorch site](https://pytorch.org/)
 
 ## Installation
 
@@ -35,3 +35,14 @@ pip3 install torchvision
 ```
 
 ## Summary
+
+* Overview
+* Linear Regression
+* MNIST
+* FashionMNIST
+* CIFAR10
+* ResNet
+* YOLO
+* Deep Reinforcement Learning
+* Meta Reinforcement Learning
+* VAEs
