@@ -6,6 +6,8 @@
 
 PyTorch 1.0 version's Tutorials Overview, ConvNet, RNNs, GANs, VAEs tutorials, etc.[Official PyTorch site](https://pytorch.org/)
 
+*Coding!*
+
 ## Installation
 
 * Python 3.5
