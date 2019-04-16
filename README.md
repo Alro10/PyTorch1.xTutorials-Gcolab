@@ -36,7 +36,7 @@ pip3 install https://download.pytorch.org/whl/cu100/torch-1.0.1.post2-cp35-cp35m
 pip3 install torchvision
 ```
 
-## Summary
+## To do
 
 - [ ] Overview
 - [ ] Linear Regression
