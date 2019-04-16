@@ -36,13 +36,13 @@ pip3 install torchvision
 
 ## Summary
 
-- [] Overview
-- [] Linear Regression
-- [] MNIST
-- [] FashionMNIST
-- [] CIFAR10
-- [] ResNet
-- [] YOLO
-- [] Deep Reinforcement Learning
-- [] Meta Reinforcement Learning
-- [] VAEs
+- [ ] Overview
+- [ ] Linear Regression
+- [ ] MNIST
+- [ ] FashionMNIST
+- [ ] CIFAR10
+- [ ] ResNet
+- [ ] YOLO
+- [ ] Deep Reinforcement Learning
+- [ ] Meta Reinforcement Learning
+- [ ] VAEs
