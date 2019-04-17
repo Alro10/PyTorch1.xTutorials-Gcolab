@@ -38,7 +38,7 @@ pip3 install torchvision
 
 ## To do
 
-- [ ] Overview
+- [x] Overview
 - [ ] Linear Regression
 - [ ] MNIST
 - [ ] FashionMNIST
