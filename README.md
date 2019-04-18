@@ -35,7 +35,7 @@ pip3 install torch torchvision
 pip3 install https://download.pytorch.org/whl/cu100/torch-1.0.1.post2-cp35-cp35m-linux_x86_64.whl
 pip3 install torchvision
 ```
-** Google Colaboratory**
+**Google Colaboratory**
 
 In G colab Python 3.6 is just available.
 
