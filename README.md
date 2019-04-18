@@ -35,6 +35,12 @@ pip3 install torch torchvision
 pip3 install https://download.pytorch.org/whl/cu100/torch-1.0.1.post2-cp35-cp35m-linux_x86_64.whl
 pip3 install torchvision
 ```
+** Google Colaboratory**
+
+```
+!pip install http://download.pytorch.org/whl/cu80/torch-0.4.0-cp36-cp36m-linux_x86_64.whl
+!pip install torchvision
+```
 
 ## To do
 
