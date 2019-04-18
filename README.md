@@ -37,6 +37,8 @@ pip3 install torchvision
 ```
 ** Google Colaboratory**
 
+In G colab Python 3.6 is just available.
+
 ```
 !pip install http://download.pytorch.org/whl/cu80/torch-0.4.0-cp36-cp36m-linux_x86_64.whl
 !pip install torchvision
