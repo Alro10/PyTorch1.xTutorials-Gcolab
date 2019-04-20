@@ -37,12 +37,9 @@ pip3 install torchvision
 ```
 **Google Colaboratory**
 
-In G colab Python 3.6 is just available.
+In G colab you can only use Python 3.6 and Pytorch 1.0.1.post2 is available. Also, you can run coding for free!
 
-```
-!pip install http://download.pytorch.org/whl/cu80/torch-0.4.0-cp36-cp36m-linux_x86_64.whl
-!pip install torchvision
-```
+
 
 ## To do
 
