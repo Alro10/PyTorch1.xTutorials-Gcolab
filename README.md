@@ -52,5 +52,6 @@ In G colab you can only use Python 3.6 and Pytorch 1.0.1.post2 is available. Als
 - [ ] YOLO
 - [ ] Deep Reinforcement Learning
 - [ ] Meta Reinforcement Learning
+- [ ] GANs
 - [ ] VAEs
 - [ ] Model Predictive Control (MPC)
