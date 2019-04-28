@@ -30,7 +30,7 @@ pip3 install torchvision
 pip3 install torch torchvision
 ```
 
-**CUDA 9.0**
+**CUDA 10.0**
 ```
 pip3 install https://download.pytorch.org/whl/cu100/torch-1.0.1.post2-cp35-cp35m-linux_x86_64.whl
 pip3 install torchvision
