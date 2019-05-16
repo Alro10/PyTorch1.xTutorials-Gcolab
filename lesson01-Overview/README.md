@@ -1,4 +1,0 @@
-## Overview
-
-* Tensors
-* Operations
