@@ -44,7 +44,7 @@ In G colab you can only use Python 3.6 and Pytorch 1.0.1.post2 is available. Als
 ## To do
 
 - [x] Overview
-- [ ] Linear Regression
+- [x] Linear Regression
 - [ ] Logistic Regression
 - [ ] MNIST
 - [ ] FashionMNIST
