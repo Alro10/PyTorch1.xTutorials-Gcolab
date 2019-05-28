@@ -1,10 +1,10 @@
-# PyTorch 1.0 Tutorials
+# PyTorch 1.0 Tutorials (step by step)
 
 <p align="center">
 <img src="https://github.com/Alro10/PyTorch1.0Tutorials/blob/master/PyTorch.png" alt="alt text" width="60%" height="60%">
 </p>
 
-PyTorch 1.0 version's Tutorials Overview, ConvNet, RNNs, GANs, VAEs tutorials, etc.[Official PyTorch site](https://pytorch.org/)
+PyTorch 1.0 version's Tutorials Overview, Linear Regression, Logistic Regression, ConvNets, RNNs, GANs, VAEs, etc.[Official PyTorch site](https://pytorch.org/)
 
 *under developing!*
 
@@ -37,7 +37,7 @@ pip3 install torchvision
 ```
 **Google Colaboratory**
 
-In G colab you can only use Python 3.6 and Pytorch 1.0.1.post2 is available. Also, you can run coding for free!
+In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also you can run coding for free!
 
 
 
