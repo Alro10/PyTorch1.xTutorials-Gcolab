@@ -1,4 +1,4 @@
-# PyTorch 1.0 Tutorials (step by step)
+# PyTorch 1.x Tutorials (step by step)
 
 <p align="center">
 <img src="https://github.com/Alro10/PyTorch1.0Tutorials/blob/master/PyTorch.png" alt="alt text" width="60%" height="60%">
