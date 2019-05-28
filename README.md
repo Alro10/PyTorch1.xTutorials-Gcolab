@@ -4,7 +4,7 @@
 <img src="https://github.com/Alro10/PyTorch1.0Tutorials/blob/master/PyTorch.png" alt="alt text" width="60%" height="60%">
 </p>
 
-PyTorch 1.x version's Tutorials Overview, Linear Regression, Logistic Regression, ConvNets, RNNs, GANs, VAEs, etc.[Official PyTorch site](https://pytorch.org/)
+Tutorials: Overview, Linear Regression, Logistic Regression, ConvNets, RNNs, GANs, VAEs, etc.[Official PyTorch site](https://pytorch.org/)
 
 *under developing!*
 
