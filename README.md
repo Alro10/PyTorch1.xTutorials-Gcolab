@@ -46,8 +46,8 @@ In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also y
 
 - [x] Overview
 - [x] Linear Regression
-- [ ] Logistic Regression
-- [ ] MNIST
+- [x] Logistic Regression
+- [ ] MNIST (Neural Networks)
 - [ ] FashionMNIST
 - [ ] CIFAR10
 - [ ] ResNet
