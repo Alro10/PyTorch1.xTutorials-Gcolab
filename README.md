@@ -44,7 +44,7 @@ In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also y
 
 ## To do
 
-- [x] Overview
+- [x] [Overview](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson01-Overview/01_tensor_tutorial.ipynb)
 - [x] Linear Regression
 - [x] Logistic Regression
 - [ ] MNIST (Neural Networks)
