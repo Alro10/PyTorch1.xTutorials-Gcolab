@@ -4,7 +4,7 @@
 <img src="https://github.com/Alro10/PyTorch1.0Tutorials/blob/master/PyTorch.png" alt="alt text" width="60%" height="60%">
 </p>
 
-Tutorials: Overview, Linear Regression, Logistic Regression, Shallow Neural Networks, ConvNets, RNNs and LSTM, GANs, VAEs, Tensorboard with Pytorch, etc.[Official PyTorch site](https://pytorch.org/). Check [torch.nn](https://pytorch.org/docs/stable/nn.html)
+Tutorials: Overview, Linear Regression, Logistic Regression, Shallow Neural Networks, ConvNets, RNNs and LSTM, GANs, VAEs, Tensorboard with Pytorch, etc.[Official PyTorch site](https://pytorch.org/).
 
 *under developing!*
 
@@ -46,6 +46,7 @@ In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also y
 
 - [x] [Overview](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson01-Overview/01_tensor_tutorial.ipynb)
 - [x] [Linear Regression](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson02-Linear-Regression/02_linear_regression.ipynb)
+ + Check [torch.nn](https://pytorch.org/docs/stable/nn.html) out for understanding better nn.module.
 - [x] [Logistic Regression](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson03-Logistic-Regression/03_logistic_mnist.ipynb)
 - [X] [MNIST (shallow neural network)](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson04-Neural-Network/04_NeuralNets_mnist.ipynb)
 - [ ] FashionMNIST
