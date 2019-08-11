@@ -42,7 +42,7 @@ In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also y
 
 
 
-## To do
+## TODO
 
 - [x] [Overview](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson01-Overview/01_tensor_tutorial.ipynb)
 - [x] [Linear Regression](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson02-Linear-Regression/02_linear_regression.ipynb)
