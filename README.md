@@ -49,7 +49,7 @@ In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also y
  + Check [torch.nn](https://pytorch.org/docs/stable/nn.html) out for understanding better nn.module.
 - [x] [Logistic Regression](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson03-Logistic-Regression/03_logistic_mnist.ipynb)
 - [X] [MNIST (shallow neural network)](https://github.com/Alro10/PyTorch1.xTutorials/blob/master/lesson04-Neural-Network/04_NeuralNets_mnist.ipynb)
-- [ ] ConvNets-MNIST
+- [x] ConvNets-MNIST
 - [ ] FashionMNIST
 - [ ] CIFAR10
 - [ ] ResNet
