@@ -5,7 +5,7 @@
 <img src="https://github.com/Alro10/PyTorch1.0Tutorials/blob/master/PyTorch.png" alt="alt text" width="60%" height="60%">
 </p>
 
-Tutorials: Overview, Linear Regression, Logistic Regression, Shallow Neural Networks, ConvNets, RNNs and LSTM, GANs, VAEs, Tensorboard with Pytorch, etc.[Official PyTorch site](https://pytorch.org/).
+Tutorials: Overview, Linear Regression, Logistic Regression, Shallow Neural Networks, ConvNets, RNNs and LSTM, GANs, VAEs, Tensorboard with Pytorch, etc.[Official PyTorch site](https://pytorch.org/). 
 
 *under developing!*
 
@@ -38,7 +38,7 @@ pip3 install torchvision
 ```
 **Google Colaboratory**
 
-In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also you can run coding for free! click on ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) and try by yourself on colab.
+In Google colab you can only use Python 3.6 and Pytorch 1.1 is available. Also you can run coding for free! click on ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) and try yourself on colab, File -> Save in drive -> Run on your G Colab.
 
 
 
