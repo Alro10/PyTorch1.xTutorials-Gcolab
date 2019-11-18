@@ -1,4 +1,4 @@
-# PyTorch 1.x Tutorials (step by step)
+# PyTorch 1.x Tutorials (step by step) with Google Colaboratory
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
